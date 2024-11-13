@@ -1,0 +1,22 @@
+{
+  "name": "kj-eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KajiyamaVK/kj-eslint.git"
+  },
+  "author": "Victor Kajiyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KajiyamaVK/kj-eslint/issues"
+  },
+  "homepage": "https://github.com/KajiyamaVK/kj-eslint#readme",
+  "description": "",
+    "peerDependencies": {
+      "eslint": "^9.0.0" 
+    }
+}
